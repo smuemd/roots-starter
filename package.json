@@ -1,0 +1,20 @@
+{
+  "name": "roots-test",
+  "description": "this ist a test for discovergy website",
+  "dependencies": {
+    "autoprefixer-stylus": "0.8.x",
+    "axis": "0.5.x",
+    "coffee-script": "^1.0.0",
+    "css-pipeline": "0.3.x",
+    "ejs": "^2.3.4",
+    "jade": "^1.0.0",
+    "js-pipeline": "0.2.x",
+    "jstransformer-marked": "^1.0.0",
+    "less": "^2.5.3",
+    "marked": "0.3.x",
+    "postcss": "^5.0.14",
+    "rupture": "0.6.x",
+    "semantic-ui": "^2.1.8",
+    "stylus": "0.52.x"
+  }
+}
