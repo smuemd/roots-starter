@@ -15,8 +15,9 @@ this ist a test for discovergy website
  - html templates live in the `./views` folder
  - you can currently use jade and ejs as templating engine
  - just save you source files with `*.jade` or `.ejs` extentions in `./views` and they will compile to `.html` files in the `./public` folder when you run `roots watch` from the command line.
+ - in the browser [localhost:1111](http://localhost:1111) will show the index.html compiled from [jade](http://jade-lang.com/) and [localhost:1111/about.html](http://localhost:1111/about.html) will show about.html compiled from [ejs](http://www.embeddedjs.com)
  
- #### CSS
+#### CSS
  - Styles live in `./assets/css`
  - you can use vanilla `*.css`, `*.styl`, or `*.less` as source files
  - will compile to `*.css` 
