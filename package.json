@@ -1,6 +1,16 @@
 {
-  "name": "roots-test",
+  "name": "roots-starter",
   "description": "this ist a test for discovergy website",
+  "version": "0.0.0",
+  "private": false,
+  "contributors": [
+    "Stefan Thon <smuemd@gmail.com>"
+  ],
+  "license": "none",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smuemd/roots-starter.git"
+  },
   "dependencies": {
     "autoprefixer-stylus": "0.8.x",
     "axis": "0.5.x",
@@ -13,8 +23,12 @@
     "less": "^2.5.3",
     "marked": "0.3.x",
     "postcss": "^5.0.14",
+    "roots": "^3.1.0",
     "rupture": "0.6.x",
     "semantic-ui": "^2.1.8",
     "stylus": "0.52.x"
+  },
+  "devDependencies": {
+    "lost": "^6.7.0"
   }
 }
