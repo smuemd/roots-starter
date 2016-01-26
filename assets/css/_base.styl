@@ -1,0 +1,25 @@
+/**
+* Base styles
+*/
+
+/* requireing custom variables, functions and mixins */
+@require "_settings.styl";
+// @require "_functions.styl";
+// @require "_mixins.styl";
+
+/**
+* A CSS block so that they are picked up by postcss after
+* Stylus compilation
+*/
+@css {
+  @custom-media --sm-viewport (min-width: 36.25em);
+  @custom-media --md-viewport (min-width: 49.375em);
+  @custom-media --lg-viewport (min-width: 72.1875em);
+  
+  /* importing SUIT CSS base styles (includes Normalize) */
+  @import 'suitcss-base';
+  
+}
+
+body
+  padding: 50px
