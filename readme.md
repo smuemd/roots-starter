@@ -1,5 +1,7 @@
 # roots-starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/smuemd/roots-starter.svg)](https://greenkeeper.io/)
+
 this ist a test for discovergy website
 
 ### Setup
