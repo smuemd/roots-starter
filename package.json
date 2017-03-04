@@ -15,8 +15,8 @@
     "watchStylus": "stylus -w assets/css/components assets/css/utils"
   },
   "dependencies": {
-    "autoprefixer-stylus": "0.8.x",
-    "axis": "0.5.x",
+    "autoprefixer-stylus": "~0.13.0",
+    "axis": "~1.0.0",
     "coffee-script": "^1.0.0",
     "css-pipeline": "0.3.x",
     "ejs": "^2.3.4",
@@ -25,27 +25,27 @@
     "jstransformer-marked": "^1.0.0",
     "less": "^2.5.3",
     "marked": "0.3.x",
-    "normalize.css": "^3.0.3",
+    "normalize.css": "^5.0.0",
     "postcss": "^5.0.14",
-    "roots": "^3.1.0",
+    "roots": "^5.1.0",
     "rupture": "0.6.x",
     "semantic-ui": "^2.1.8",
-    "stylus": "0.52.x",
-    "suitcss-base": "^1.0.1",
+    "stylus": "~0.54.5",
+    "suitcss-base": "^2.0.0",
     "suitcss-components-arrange": "^1.1.0",
-    "suitcss-components-button": "^5.0.0",
+    "suitcss-components-button": "^6.0.0",
     "suitcss-components-flex-embed": "^2.0.3",
     "suitcss-components-grid": "^3.0.1",
-    "suitcss-components-test": "^0.2.1",
-    "suitcss-utils": "^0.11.0"
+    "suitcss-components-test": "^1.0.0",
+    "suitcss-utils": "^2.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.1",
-    "lost": "^6.7.0",
+    "lost": "^8.0.0",
     "postcss-calc": "^5.2.0",
     "postcss-custom-media": "^5.0.0",
     "postcss-custom-properties": "^5.0.0",
-    "postcss-import": "^7.1.3",
-    "suitcss-preprocessor": "^0.8.0"
+    "postcss-import": "^9.1.0",
+    "suitcss-preprocessor": "^3.0.1"
   }
 }
